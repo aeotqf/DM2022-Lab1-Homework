@@ -1,2 +1,2 @@
 # DM2022-Lab1-Homework
-Homework 1 for ISA5810 
+# The notebook is inside the lab1 directory
